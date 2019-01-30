@@ -1,0 +1,24 @@
+2019-01-08 16:06:49,086::DEBUG::[Register]: Registeration request received for userid 2.
+2019-01-08 16:06:50,439::DEBUG::[Status Update]: UpdateFaceReconStatus API has been called successfully.
+2019-01-08 16:06:50,440::DEBUG::[Status Update]: Failed to enter a record into Database
+2019-01-08 16:12:48,822::DEBUG::[Register]: Registeration request received for userid 2.
+2019-01-08 16:12:49,690::DEBUG::[Status Update]: UpdateFaceReconStatus API has been called successfully.
+2019-01-08 16:12:49,690::DEBUG::[Status Update]: Invalid token. Please logout and try to re-login
+2019-01-08 16:14:05,166::DEBUG::[Register]: Registeration request received for userid 2.
+2019-01-08 16:14:05,844::DEBUG::[Status Update]: UpdateFaceReconStatus API has been called successfully.
+2019-01-08 16:14:05,845::DEBUG::[Status Update]: Invalid token. Please logout and try to re-login
+2019-01-08 16:16:03,492::DEBUG::[Register]: Registeration request received for userid 2.
+2019-01-08 16:16:04,267::DEBUG::[Status Update]: UpdateFaceReconStatus API has been called successfully.
+2019-01-08 16:16:04,267::DEBUG::[Status Update]: Invalid token. Please logout and try to re-login
+2019-01-08 16:32:15,172::DEBUG::[Register]: Registeration request received for userid 2.
+2019-01-08 16:32:15,851::DEBUG::[Status Update]: UpdateFaceReconStatus API has been called successfully.
+2019-01-08 16:32:15,851::DEBUG::[Status Update]: Data updated successfully
+2019-01-08 16:54:19,464::DEBUG::[Register]: Registeration request received for userid 2.
+2019-01-08 16:54:20,246::DEBUG::[Status Update]: UpdateFaceReconStatus API has been called successfully.
+2019-01-08 16:54:20,246::DEBUG::[Status Update]: Data updated successfully
+2019-01-08 17:10:49,378::DEBUG::[Register]: Registeration request received for userid 10.
+2019-01-08 17:10:50,003::DEBUG::[Status Update]: UpdateFaceReconStatus API has been called successfully.
+2019-01-08 17:10:50,003::DEBUG::[Status Update]: Data updated successfully
+2019-01-08 17:11:57,337::DEBUG::[Register]: Registeration request received for userid 10.
+2019-01-08 17:11:58,031::DEBUG::[Status Update]: UpdateFaceReconStatus API has been called successfully.
+2019-01-08 17:11:58,031::DEBUG::[Status Update]: Data updated successfully

@@ -1,0 +1,8 @@
+2019-01-03 12:01:20,700::DEBUG::[Check-in]: Check-in request recieved for userid 11 with imagepath http://wsautomatebanking.calibehr.com/UploadedImages/DailyAttendance/11_IN_ShadabShaikh_03Jan2019.png
+2019-01-03 12:02:02,230::DEBUG::[Check-in]: The Person identified in the image is ['2'] for userid 11.
+2019-01-03 12:02:02,256::DEBUG::[Check-in]: Updated Status in Database.
+2019-01-03 12:02:02,257::DEBUG::[Check-in]: Check-in request successfully processed.
+2019-01-03 15:53:45,212::DEBUG::[Check-in]: Check-in request recieved for userid 13 with imagepath http://wsautomatebanking.calibehr.com/UploadedImages/DailyAttendance/13_IN_umeshbahelia_03Dec2018.png
+2019-01-03 15:54:27,073::DEBUG::[Check-in]: The Person identified in the image is ['Unknown'] for userid 13.
+2019-01-03 15:54:27,146::DEBUG::[Check-in]: Updated Status in Database.
+2019-01-03 15:54:27,146::DEBUG::[Check-in]: Check-in request successfully processed.

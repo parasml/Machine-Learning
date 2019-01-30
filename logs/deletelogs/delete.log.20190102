@@ -1,0 +1,86 @@
+2019-01-02 12:12:00,245::ERROR::[Exception]: Userid doen't exists.
+Traceback (most recent call last):
+  File "del_dir.py", line 33, in <module>
+    shutil.rmtree(path)
+  File "C:\Program Files (x86)\Python37-32\lib\shutil.py", line 507, in rmtree
+    return _rmtree_unsafe(path, onerror)
+  File "C:\Program Files (x86)\Python37-32\lib\shutil.py", line 391, in _rmtree_unsafe
+    onerror(os.unlink, fullname, sys.exc_info())
+  File "C:\Program Files (x86)\Python37-32\lib\shutil.py", line 389, in _rmtree_unsafe
+    os.unlink(fullname)
+PermissionError: [WinError 5] Access is denied: 'data/train_images/2\\imagefile01545311556.jpg'
+2019-01-02 12:12:00,603::DEBUG::[Message]: FaceReconStatus updated Successfully for userid 2.
+2019-01-02 12:12:53,070::DEBUG::[Message]: Userid 11 deleted from record successfully.
+2019-01-02 12:12:53,397::DEBUG::[Message]: FaceReconStatus updated Successfully for userid 11.
+2019-01-02 12:13:06,112::ERROR::[Exception]: Userid doen't exists.
+Traceback (most recent call last):
+  File "del_dir.py", line 33, in <module>
+    shutil.rmtree(path)
+  File "C:\Program Files (x86)\Python37-32\lib\shutil.py", line 507, in rmtree
+    return _rmtree_unsafe(path, onerror)
+  File "C:\Program Files (x86)\Python37-32\lib\shutil.py", line 391, in _rmtree_unsafe
+    onerror(os.unlink, fullname, sys.exc_info())
+  File "C:\Program Files (x86)\Python37-32\lib\shutil.py", line 389, in _rmtree_unsafe
+    os.unlink(fullname)
+PermissionError: [WinError 5] Access is denied: 'data/train_images/2\\imagefile01545311556.jpg'
+2019-01-02 12:13:06,277::DEBUG::[Message]: FaceReconStatus updated Successfully for userid 2.
+2019-01-02 14:49:18,663::DEBUG::[Message]: Userid 2 deleted from record successfully.
+2019-01-02 14:49:18,706::DEBUG::[Message]: FaceReconStatus updated Successfully for userid 2.
+2019-01-02 15:01:59,687::ERROR::[Exception]: Userid doen't exists.
+Traceback (most recent call last):
+  File "del_dir.py", line 33, in <module>
+    shutil.rmtree(path)
+  File "C:\Program Files (x86)\Python37-32\lib\shutil.py", line 507, in rmtree
+    return _rmtree_unsafe(path, onerror)
+  File "C:\Program Files (x86)\Python37-32\lib\shutil.py", line 391, in _rmtree_unsafe
+    onerror(os.unlink, fullname, sys.exc_info())
+  File "C:\Program Files (x86)\Python37-32\lib\shutil.py", line 389, in _rmtree_unsafe
+    os.unlink(fullname)
+PermissionError: [WinError 5] Access is denied: 'data/train_images/13\\imagefile01545631918.jpg'
+2019-01-02 15:02:00,352::DEBUG::[Message]: FaceReconStatus updated Successfully for userid 13.
+2019-01-02 15:16:19,491::ERROR::[Exception]: Userid doen't exists.
+Traceback (most recent call last):
+  File "del_dir.py", line 33, in <module>
+    shutil.rmtree(path)
+  File "C:\Program Files (x86)\Python37-32\lib\shutil.py", line 507, in rmtree
+    return _rmtree_unsafe(path, onerror)
+  File "C:\Program Files (x86)\Python37-32\lib\shutil.py", line 391, in _rmtree_unsafe
+    onerror(os.unlink, fullname, sys.exc_info())
+  File "C:\Program Files (x86)\Python37-32\lib\shutil.py", line 389, in _rmtree_unsafe
+    os.unlink(fullname)
+PermissionError: [WinError 5] Access is denied: 'data/train_images/20010\\imagefile01545400632.jpg'
+2019-01-02 15:16:20,008::DEBUG::[Message]: FaceReconStatus updation Failed for userid 20010.
+2019-01-02 15:16:27,084::DEBUG::[Message]: Userid 2481 deleted from record successfully.
+2019-01-02 15:16:27,429::DEBUG::[Message]: FaceReconStatus updated Successfully for userid 2481.
+2019-01-02 15:16:35,878::DEBUG::[Message]: Userid 1462 deleted from record successfully.
+2019-01-02 15:16:36,100::DEBUG::[Message]: FaceReconStatus updated Successfully for userid 1462.
+2019-01-02 15:17:53,245::ERROR::[Exception]: Userid doen't exists.
+Traceback (most recent call last):
+  File "del_dir.py", line 33, in <module>
+    shutil.rmtree(path)
+  File "C:\Program Files (x86)\Python37-32\lib\shutil.py", line 507, in rmtree
+    return _rmtree_unsafe(path, onerror)
+  File "C:\Program Files (x86)\Python37-32\lib\shutil.py", line 391, in _rmtree_unsafe
+    onerror(os.unlink, fullname, sys.exc_info())
+  File "C:\Program Files (x86)\Python37-32\lib\shutil.py", line 389, in _rmtree_unsafe
+    os.unlink(fullname)
+PermissionError: [WinError 5] Access is denied: 'data/train_images/20010\\imagefile01545400632.jpg'
+2019-01-02 15:17:54,159::DEBUG::[Message]: FaceReconStatus updation Failed for userid 20010.
+2019-01-02 15:18:38,596::ERROR::[Exception]: Userid doen't exists.
+Traceback (most recent call last):
+  File "del_dir.py", line 33, in <module>
+    shutil.rmtree(path)
+  File "C:\Program Files (x86)\Python37-32\lib\shutil.py", line 507, in rmtree
+    return _rmtree_unsafe(path, onerror)
+  File "C:\Program Files (x86)\Python37-32\lib\shutil.py", line 391, in _rmtree_unsafe
+    onerror(os.unlink, fullname, sys.exc_info())
+  File "C:\Program Files (x86)\Python37-32\lib\shutil.py", line 389, in _rmtree_unsafe
+    os.unlink(fullname)
+PermissionError: [WinError 5] Access is denied: 'data/train_images/10\\imagefile01545311768.jpg'
+2019-01-02 15:18:39,384::DEBUG::[Message]: FaceReconStatus updated Successfully for userid 10.
+2019-01-02 15:18:43,235::DEBUG::[Message]: Userid 2 deleted from record successfully.
+2019-01-02 15:18:44,054::DEBUG::[Message]: FaceReconStatus updated Successfully for userid 2.
+2019-01-02 15:34:48,786::DEBUG::[Message]: Userid 2 deleted from record successfully.
+2019-01-02 15:34:49,182::DEBUG::[Message]: FaceReconStatus updated Successfully for userid 2.
+2019-01-02 15:34:51,554::DEBUG::[Message]: Userid 10 deleted from record successfully.
+2019-01-02 15:34:52,174::DEBUG::[Message]: FaceReconStatus updated Successfully for userid 10.

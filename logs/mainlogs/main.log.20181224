@@ -1,0 +1,20 @@
+2018-12-24 18:16:52,760::DEBUG::[Check-in]: Check-in request recieved for userid 2 with imagepath http://wsautomatebanking.calibehr.com/UploadedImages/DailyAttendance/2_IN_VibhutiKumar_24Dec2018.png
+2018-12-24 18:17:34,109::DEBUG::[Check-in]: The Person identified in the image is {names} for userid {id_}.
+2018-12-24 18:17:34,154::DEBUG::[Check-in]: Updated Status in Database.
+2018-12-24 18:17:34,154::DEBUG::[Check-in]: Check-in request successfully processed.
+2018-12-24 18:40:00,538::DEBUG::[Check-in]: Check-in request recieved for userid 13 with imagepath http://wsautomatebanking.calibehr.com/UploadedImages/DailyAttendance/13_IN_umeshbahelia_24Dec2018.png
+2018-12-24 18:40:42,097::DEBUG::[Check-in]: The Person identified in the image is ['2'] for userid 13.
+2018-12-24 18:40:42,146::DEBUG::[Check-in]: Updated Status in Database.
+2018-12-24 18:40:42,146::DEBUG::[Check-in]: Check-in request successfully processed.
+2018-12-24 18:43:20,510::DEBUG::[Check-in]: Check-in request recieved for userid 2 with imagepath http://wsautomatebanking.calibehr.com/UploadedImages/DailyAttendance/2_IN_VibhutiKumar_24Dec2018.png
+2018-12-24 18:44:01,773::DEBUG::[Check-in]: The Person identified in the image is ['2'] for userid 2.
+2018-12-24 18:44:01,792::DEBUG::[Check-in]: Updated Status in Database.
+2018-12-24 18:44:01,793::DEBUG::[Check-in]: Check-in request successfully processed.
+2018-12-24 18:48:40,221::DEBUG::[Check-in]: Check-in request recieved for userid 13 with imagepath http://wsautomatebanking.calibehr.com/UploadedImages/DailyAttendance/13_IN_umeshbahelia_24Dec2018.png
+2018-12-24 18:49:21,286::DEBUG::[Check-in]: Check-in request recieved for userid 2 with imagepath http://wsautomatebanking.calibehr.com/UploadedImages/DailyAttendance/2_IN_VibhutiKumar_24Dec2018.png
+2018-12-24 18:49:21,287::DEBUG::[Check-in]: The Person identified in the image is ['13'] for userid 13.
+2018-12-24 18:49:21,305::DEBUG::[Check-in]: Updated Status in Database.
+2018-12-24 18:49:21,305::DEBUG::[Check-in]: Check-in request successfully processed.
+2018-12-24 18:50:02,542::DEBUG::[Check-in]: The Person identified in the image is ['10'] for userid 2.
+2018-12-24 18:50:02,545::DEBUG::[Check-in]: Updated Status in Database.
+2018-12-24 18:50:02,545::DEBUG::[Check-in]: Check-in request successfully processed.
