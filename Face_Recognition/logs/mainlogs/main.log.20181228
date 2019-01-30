@@ -1,0 +1,4 @@
+2018-12-28 11:13:45,908::DEBUG::[Check-in]: Check-in request recieved for userid 13 with imagepath http://wsautomatebanking.calibehr.com/UploadedImages/DailyAttendance/13_IN_umeshbahelia_03Dec2018.png
+2018-12-28 11:14:30,706::DEBUG::[Check-in]: The Person identified in the image is ['10'] for userid 13.
+2018-12-28 11:14:30,739::DEBUG::[Check-in]: Updated Status in Database.
+2018-12-28 11:14:30,739::DEBUG::[Check-in]: Check-in request successfully processed.

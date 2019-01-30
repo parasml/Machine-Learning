@@ -1,0 +1,16 @@
+2019-01-17 07:32:59,831::DEBUG::[Check-in]: Check-in request recieved for userid 744 with imagepath http://wsbanking.go4automate.com/UploadedImages/DailyAttendance/744_IN_Bhaveshkamble_17Jan2019.png
+2019-01-17 07:33:41,320::DEBUG::[Check-in]: The Person identified in the image is ['744'] for userid 744.
+2019-01-17 07:33:41,351::DEBUG::[Check-in]: Updated Status in Database.
+2019-01-17 07:33:41,351::DEBUG::[Check-in]: Check-in request successfully processed.
+2019-01-17 09:48:29,380::DEBUG::[Check-in]: Check-in request recieved for userid 746 with imagepath http://wsbanking.go4automate.com/UploadedImages/DailyAttendance/746_IN_AMITVerma_17Jan2019.png
+2019-01-17 09:49:11,210::DEBUG::[Check-in]: The Person identified in the image is ['746'] for userid 746.
+2019-01-17 09:49:11,227::DEBUG::[Check-in]: Updated Status in Database.
+2019-01-17 09:49:11,227::DEBUG::[Check-in]: Check-in request successfully processed.
+2019-01-17 09:50:54,976::DEBUG::[Check-in]: Check-in request recieved for userid 699 with imagepath http://wsbanking.go4automate.com/UploadedImages/DailyAttendance/699_IN_SumitBharti_17Jan2019.png
+2019-01-17 09:51:36,257::DEBUG::[Check-in]: The Person identified in the image is ['699'] for userid 699.
+2019-01-17 09:51:36,272::DEBUG::[Check-in]: Updated Status in Database.
+2019-01-17 09:51:36,272::DEBUG::[Check-in]: Check-in request successfully processed.
+2019-01-17 10:00:20,526::DEBUG::[Check-in]: Check-in request recieved for userid 697 with imagepath http://wsbanking.go4automate.com/UploadedImages/DailyAttendance/697_IN_SantoshRajpurkar_17Jan2019.png
+2019-01-17 10:01:01,931::DEBUG::[Check-in]: The Person identified in the image is ['Unknown'] for userid 697.
+2019-01-17 10:01:01,947::DEBUG::[Check-in]: Updated Status in Database.
+2019-01-17 10:01:01,947::DEBUG::[Check-in]: Check-in request successfully processed.

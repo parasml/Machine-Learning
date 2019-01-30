@@ -1,0 +1,16 @@
+2019-01-08 16:34:12,073::DEBUG::[Message]: Userid 2 deleted from record successfully.
+2019-01-08 16:34:12,134::ERROR::[Exception]: UpdateFaceReconStatus API is not reachable.
+Traceback (most recent call last):
+  File "del_dir.py", line 42, in <module>
+    response = json.loads(response.text)
+  File "C:\Program Files (x86)\Python37-32\lib\json\__init__.py", line 338, in loads
+    s, 0)
+json.decoder.JSONDecodeError: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2019-01-08 16:42:09,191::DEBUG::[Message]: Userid 10 deleted from record successfully.
+2019-01-08 16:42:09,605::ERROR::[Exception]: UpdateFaceReconStatus API is not reachable.
+Traceback (most recent call last):
+  File "del_dir.py", line 42, in <module>
+    response = json.loads(response.text)
+  File "C:\Program Files (x86)\Python37-32\lib\json\__init__.py", line 338, in loads
+    s, 0)
+json.decoder.JSONDecodeError: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)

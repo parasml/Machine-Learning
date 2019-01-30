@@ -1,0 +1,121 @@
+2019-01-02 11:47:44,979::DEBUG::[Check-in]: Check-in request recieved for userid 2 with imagepath http://wsautomatebanking.calibehr.com/UploadedImages/DailyAttendance/2_IN_VibhutiKumar_02Jan2019.png
+2019-01-02 11:48:26,348::DEBUG::[Check-in]: The Person identified in the image is ['Unknown'] for userid 2.
+2019-01-02 11:48:26,382::DEBUG::[Check-in]: Updated Status in Database.
+2019-01-02 11:48:26,382::DEBUG::[Check-in]: Check-in request successfully processed.
+2019-01-02 11:52:14,675::DEBUG::[Check-in]: Check-in request recieved for userid 10 with imagepath http://wsautomatebanking.calibehr.com/UploadedImages/DailyAttendance/10_IN_RajendraNage_02Jan2019.png
+2019-01-02 11:52:56,041::DEBUG::[Check-in]: The Person identified in the image is ['13'] for userid 10.
+2019-01-02 11:52:56,065::DEBUG::[Check-in]: Updated Status in Database.
+2019-01-02 11:52:56,065::DEBUG::[Check-in]: Check-in request successfully processed.
+2019-01-02 11:56:20,897::DEBUG::[Check-in]: Check-in request recieved for userid 464 with imagepath http://wsautomatebanking.calibehr.com/UploadedImages/DailyAttendance/464_IN_SharmaSharma_02Jan2019.png
+2019-01-02 11:57:02,660::DEBUG::[Check-in]: The Person identified in the image is ['13'] for userid 464.
+2019-01-02 11:57:02,679::DEBUG::[Check-in]: Updated Status in Database.
+2019-01-02 11:57:02,679::DEBUG::[Check-in]: Check-in request successfully processed.
+2019-01-02 11:57:16,003::DEBUG::[Check-in]: Check-in request recieved for userid 13 with imagepath http://wsautomatebanking.calibehr.com/UploadedImages/DailyAttendance/13_IN_umeshbahelia_02Jan2019.png
+2019-01-02 11:57:58,518::DEBUG::[Check-in]: The Person identified in the image is ['13'] for userid 13.
+2019-01-02 11:57:58,521::DEBUG::[Check-in]: Updated Status in Database.
+2019-01-02 11:57:58,521::DEBUG::[Check-in]: Check-in request successfully processed.
+2019-01-02 11:59:30,951::DEBUG::[Register]: Registeration request received for userid 11.
+2019-01-02 11:59:32,494::DEBUG::[Status Update]: UpdateFaceReconStatus API has been called successfully.
+2019-01-02 11:59:32,495::DEBUG::[Status Update]: Record Entered in Database
+2019-01-02 11:59:48,231::DEBUG::[Check-in]: Check-in request recieved for userid 11 with imagepath http://wsautomatebanking.calibehr.com/UploadedImages/DailyAttendance/11_IN_ShadabShaikh_02Jan2019.png
+2019-01-02 12:00:29,604::DEBUG::[Check-in]: The Person identified in the image is ['Unknown'] for userid 11.
+2019-01-02 12:00:29,620::DEBUG::[Check-in]: Updated Status in Database.
+2019-01-02 12:00:29,621::DEBUG::[Check-in]: Check-in request successfully processed.
+2019-01-02 12:04:40,773::DEBUG::[Register]: Registeration request received for userid 1462.
+2019-01-02 12:04:41,765::DEBUG::[Status Update]: UpdateFaceReconStatus API has been called successfully.
+2019-01-02 12:04:41,766::DEBUG::[Status Update]: Record Entered in Database
+2019-01-02 12:04:52,077::DEBUG::[Check-in]: Check-in request recieved for userid 1462 with imagepath http://wsautomatebanking.calibehr.com/UploadedImages/DailyAttendance/1462_IN_Shadabtest_02Jan2019.png
+2019-01-02 12:05:33,448::DEBUG::[Check-in]: The Person identified in the image is ['13'] for userid 1462.
+2019-01-02 12:05:33,467::DEBUG::[Check-in]: Updated Status in Database.
+2019-01-02 12:05:33,467::DEBUG::[Check-in]: Check-in request successfully processed.
+2019-01-02 12:14:50,588::DEBUG::[Register]: Registeration request received for userid 2.
+2019-01-02 12:14:51,273::DEBUG::[Status Update]: UpdateFaceReconStatus API has been called successfully.
+2019-01-02 12:14:51,274::DEBUG::[Status Update]: Record Entered in Database
+2019-01-02 12:15:48,898::DEBUG::[Check-in]: Check-in request recieved for userid 2 with imagepath http://wsautomatebanking.calibehr.com/UploadedImages/DailyAttendance/2_IN_VibhutiKumar_02Jan2019.png
+2019-01-02 12:16:30,363::DEBUG::[Check-in]: The Person identified in the image is ['13'] for userid 2.
+2019-01-02 12:16:30,382::DEBUG::[Check-in]: Updated Status in Database.
+2019-01-02 12:16:30,382::DEBUG::[Check-in]: Check-in request successfully processed.
+2019-01-02 14:13:22,458::DEBUG::[Register]: Registeration request received for userid 2481.
+2019-01-02 14:13:22,982::DEBUG::[Status Update]: UpdateFaceReconStatus API has been called successfully.
+2019-01-02 14:13:22,982::DEBUG::[Status Update]: Record Entered in Database
+2019-01-02 14:55:11,499::DEBUG::[Register]: Registeration request received for userid 2.
+2019-01-02 14:55:12,202::DEBUG::[Status Update]: UpdateFaceReconStatus API has been called successfully.
+2019-01-02 14:55:12,202::DEBUG::[Status Update]: Record Entered in Database
+2019-01-02 14:58:31,179::DEBUG::[Check-in]: Check-in request recieved for userid 2 with imagepath http://wsautomatebanking.calibehr.com/UploadedImages/DailyAttendance/2_IN_VibhutiKumar_02Jan2019.png
+2019-01-02 14:59:12,549::DEBUG::[Check-in]: The Person identified in the image is ['13'] for userid 2.
+2019-01-02 14:59:12,569::DEBUG::[Check-in]: Updated Status in Database.
+2019-01-02 14:59:12,569::DEBUG::[Check-in]: Check-in request successfully processed.
+2019-01-02 15:05:00,525::DEBUG::[Check-in]: Check-in request recieved for userid 2 with imagepath http://wsautomatebanking.calibehr.com/UploadedImages/DailyAttendance/2_IN_VibhutiKumar_02Jan2019.png
+2019-01-02 15:05:44,422::DEBUG::[Check-in]: The Person identified in the image is ['Unknown'] for userid 2.
+2019-01-02 15:05:44,440::DEBUG::[Check-in]: Updated Status in Database.
+2019-01-02 15:05:44,440::DEBUG::[Check-in]: Check-in request successfully processed.
+2019-01-02 15:09:31,085::DEBUG::[Check-in]: Check-in request recieved for userid 2 with imagepath http://wsautomatebanking.calibehr.com/UploadedImages/DailyAttendance/2_IN_VibhutiKumar_02Jan2019.png
+2019-01-02 15:10:13,458::DEBUG::[Check-in]: The Person identified in the image is ['Unknown'] for userid 2.
+2019-01-02 15:10:13,476::DEBUG::[Check-in]: Updated Status in Database.
+2019-01-02 15:10:13,476::DEBUG::[Check-in]: Check-in request successfully processed.
+2019-01-02 15:23:27,180::DEBUG::[Register]: Registeration request received for userid 2.
+2019-01-02 15:23:28,544::DEBUG::[Status Update]: UpdateFaceReconStatus API has been called successfully.
+2019-01-02 15:23:28,544::DEBUG::[Status Update]: Record Entered in Database
+2019-01-02 15:25:09,759::DEBUG::[Check-in]: Check-in request recieved for userid 2 with imagepath http://wsautomatebanking.calibehr.com/UploadedImages/DailyAttendance/2_IN_VibhutiKumar_02Jan2019.png
+2019-01-02 15:25:51,754::DEBUG::[Check-in]: The Person identified in the image is ['Unknown'] for userid 2.
+2019-01-02 15:25:51,771::DEBUG::[Check-in]: Updated Status in Database.
+2019-01-02 15:25:51,771::DEBUG::[Check-in]: Check-in request successfully processed.
+2019-01-02 15:27:03,080::DEBUG::[Register]: Registeration request received for userid 10.
+2019-01-02 15:27:04,217::DEBUG::[Status Update]: UpdateFaceReconStatus API has been called successfully.
+2019-01-02 15:27:04,218::DEBUG::[Status Update]: Record Entered in Database
+2019-01-02 15:29:45,160::DEBUG::[Check-in]: Check-in request recieved for userid 2 with imagepath http://wsautomatebanking.calibehr.com/UploadedImages/DailyAttendance/2_IN_VibhutiKumar_02Jan2019.png
+2019-01-02 15:30:28,021::DEBUG::[Check-in]: The Person identified in the image is ['Unknown'] for userid 2.
+2019-01-02 15:30:28,038::DEBUG::[Check-in]: Updated Status in Database.
+2019-01-02 15:30:28,038::DEBUG::[Check-in]: Check-in request successfully processed.
+2019-01-02 15:36:08,142::DEBUG::[Register]: Registeration request received for userid 2.
+2019-01-02 15:36:09,546::DEBUG::[Status Update]: UpdateFaceReconStatus API has been called successfully.
+2019-01-02 15:36:09,547::DEBUG::[Status Update]: Record Entered in Database
+2019-01-02 15:36:22,213::DEBUG::[Check-in]: Check-in request recieved for userid 2 with imagepath http://wsautomatebanking.calibehr.com/UploadedImages/DailyAttendance/2_IN_VibhutiKumar_02Jan2019.png
+2019-01-02 15:37:03,871::DEBUG::[Check-in]: The Person identified in the image is ['Unknown'] for userid 2.
+2019-01-02 15:37:03,953::DEBUG::[Check-in]: Updated Status in Database.
+2019-01-02 15:37:03,953::DEBUG::[Check-in]: Check-in request successfully processed.
+2019-01-02 15:37:11,488::DEBUG::[Check-in]: Check-in request recieved for userid 2 with imagepath http://wsautomatebanking.calibehr.com/UploadedImages/DailyAttendance/2_IN_VibhutiKumar_02Jan2019.png
+2019-01-02 15:37:53,802::DEBUG::[Check-in]: The Person identified in the image is ['Unknown'] for userid 2.
+2019-01-02 15:37:53,805::DEBUG::[Check-in]: Updated Status in Database.
+2019-01-02 15:37:53,805::DEBUG::[Check-in]: Check-in request successfully processed.
+2019-01-02 15:40:57,090::DEBUG::[Register]: Registeration request received for userid 13.
+2019-01-02 15:40:58,293::DEBUG::[Status Update]: UpdateFaceReconStatus API has been called successfully.
+2019-01-02 15:40:58,293::DEBUG::[Status Update]: Record Entered in Database
+2019-01-02 15:42:29,108::DEBUG::[Register]: Registeration request received for userid 10.
+2019-01-02 15:42:30,153::DEBUG::[Status Update]: UpdateFaceReconStatus API has been called successfully.
+2019-01-02 15:42:30,153::DEBUG::[Status Update]: Record Entered in Database
+2019-01-02 15:43:55,540::DEBUG::[Check-in]: Check-in request recieved for userid 13 with imagepath http://wsautomatebanking.calibehr.com/UploadedImages/DailyAttendance/13_IN_umeshbahelia_02Jan2019.png
+2019-01-02 15:44:37,079::DEBUG::[Check-in]: The Person identified in the image is ['2'] for userid 13.
+2019-01-02 15:44:37,099::DEBUG::[Check-in]: Updated Status in Database.
+2019-01-02 15:44:37,099::DEBUG::[Check-in]: Check-in request successfully processed.
+2019-01-02 15:52:04,739::DEBUG::[Check-in]: Check-in request recieved for userid 13 with imagepath http://wsautomatebanking.calibehr.com/UploadedImages/DailyAttendance/13_IN_umeshbahelia_02Jan2019.png
+2019-01-02 15:52:46,142::DEBUG::[Check-in]: The Person identified in the image is ['2'] for userid 13.
+2019-01-02 15:52:46,164::DEBUG::[Check-in]: Updated Status in Database.
+2019-01-02 15:52:46,164::DEBUG::[Check-in]: Check-in request successfully processed.
+2019-01-02 16:00:46,517::DEBUG::[Check-in]: Check-in request recieved for userid 13 with imagepath http://wsautomatebanking.calibehr.com/UploadedImages/DailyAttendance/13_IN_umeshbahelia_02Jan2019.png
+2019-01-02 16:01:27,877::DEBUG::[Check-in]: The Person identified in the image is ['13'] for userid 13.
+2019-01-02 16:01:27,880::DEBUG::[Check-in]: Check-in request recieved for userid 2 with imagepath http://wsautomatebanking.calibehr.com/UploadedImages/DailyAttendance/2_IN_VibhutiKumar_02Jan2019.png
+2019-01-02 16:01:27,934::DEBUG::[Check-in]: Updated Status in Database.
+2019-01-02 16:01:27,935::DEBUG::[Check-in]: Check-in request successfully processed.
+2019-01-02 16:02:09,237::DEBUG::[Check-in]: The Person identified in the image is ['2'] for userid 2.
+2019-01-02 16:02:09,240::DEBUG::[Check-in]: Updated Status in Database.
+2019-01-02 16:02:09,240::DEBUG::[Check-in]: Check-in request successfully processed.
+2019-01-02 16:11:16,002::DEBUG::[Check-in]: Check-in request recieved for userid 2 with imagepath http://wsautomatebanking.calibehr.com/UploadedImages/DailyAttendance/2_IN_VibhutiKumar_02Jan2019.png
+2019-01-02 16:11:57,457::DEBUG::[Check-in]: The Person identified in the image is ['2'] for userid 2.
+2019-01-02 16:11:57,477::DEBUG::[Check-in]: Updated Status in Database.
+2019-01-02 16:11:57,477::DEBUG::[Check-in]: Check-in request successfully processed.
+2019-01-02 17:17:05,252::DEBUG::[Check-in]: Check-in request recieved for userid 2 with imagepath http://wsautomatebanking.calibehr.com/UploadedImages/DailyAttendance/2_IN_VibhutiKumar_02Jan2019.png
+2019-01-02 17:17:47,647::DEBUG::[Check-in]: The Person identified in the image is ['10'] for userid 2.
+2019-01-02 17:17:47,664::DEBUG::[Check-in]: Updated Status in Database.
+2019-01-02 17:17:47,664::DEBUG::[Check-in]: Check-in request successfully processed.
+2019-01-02 17:22:22,079::DEBUG::[Check-in]: Check-in request recieved for userid 2 with imagepath http://wsautomatebanking.calibehr.com/UploadedImages/DailyAttendance/2_IN_VibhutiKumar_02Jan2019.png
+2019-01-02 17:23:03,528::DEBUG::[Check-in]: The Person identified in the image is ['2'] for userid 2.
+2019-01-02 17:23:03,546::DEBUG::[Check-in]: Updated Status in Database.
+2019-01-02 17:23:03,546::DEBUG::[Check-in]: Check-in request successfully processed.
+2019-01-02 18:16:42,810::DEBUG::[Check-in]: Check-in request recieved for userid 2487 with imagepath http://wsautomatebanking.calibehr.com/UploadedImages/DailyAttendance/2487_IN_testDectestDec_02Jan2019.png
+2019-01-02 18:17:24,113::DEBUG::[Check-in]: The Person identified in the image is ['2'] for userid 2487.
+2019-01-02 18:17:24,130::DEBUG::[Check-in]: Updated Status in Database.
+2019-01-02 18:17:24,130::DEBUG::[Check-in]: Check-in request successfully processed.
+2019-01-02 18:22:52,136::DEBUG::[Register]: Registeration request received for userid 11.
+2019-01-02 18:22:52,553::DEBUG::[Status Update]: UpdateFaceReconStatus API has been called successfully.
+2019-01-02 18:22:52,553::DEBUG::[Status Update]: Record Entered in Database
